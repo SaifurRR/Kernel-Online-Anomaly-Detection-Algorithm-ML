@@ -17,7 +17,6 @@ Contemporary patient surveillance systems have streamlined central surveillance 
 
 #### 4. Kernel Online Anomaly Detection (KOAD) Algorithm 
  
-![Progression of the detection statistic δt, with KOAD run over a
-set of 8 ion concentration levels of a patient across 100 timesteps. Timesteps
-corresponding to the identified critical events are indicated as red, filled stems.
-Sample experiment with ν1 = 0.05, ν2 = 0.20](https://github.com/SaifurRR/Kernel-Online-Anomaly-Detection-Algorithm-ML/blob/main/import/4_Detection_Statistics_Koad_Algorithm.png)****
+![ALT TEXT](https://github.com/SaifurRR/Kernel-Online-Anomaly-Detection-Algorithm-ML/blob/main/import/4_Detection_Statistics_Koad_Algorithm.png)****
+
+Progression of the detection statistic δt, with KOAD run over a set of 8 ion concentration levels of a patient across 100 timesteps. Timesteps corresponding to the identified critical events are indicated as red, filled stems. Sample experiment with ν1 = 0.05, ν2 = 0.20
