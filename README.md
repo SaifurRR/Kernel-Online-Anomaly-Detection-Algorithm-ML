@@ -15,7 +15,11 @@ Contemporary patient surveillance systems have streamlined central surveillance 
  
 ![ALT TEXT](https://github.com/SaifurRR/Kernel-Online-Anomaly-Detection-Algorithm-ML/blob/main/import/3_Data_Extraction_Tool_Philips.png)****
 
-#### 4. Kernel Online Anomaly Detection (KOAD) Algorithm 
+#### 4. Data Export Test Tool (DETT) data format from Philips IntelliVue Patient Monitoring Unit (PMU)
+ 
+![ALT TEXT](https://github.com/SaifurRR/Kernel-Online-Anomaly-Detection-Algorithm-ML/blob/main/import/5_DETT_data_%20format.png)****
+
+#### 5. Kernel Online Anomaly Detection (KOAD) Algorithm 
  
 ![ALT TEXT](https://github.com/SaifurRR/Kernel-Online-Anomaly-Detection-Algorithm-ML/blob/main/import/4_Detection_Statistics_Koad_Algorithm.png)****
 
